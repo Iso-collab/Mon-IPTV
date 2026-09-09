@@ -8,13 +8,18 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD",Africanews French (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1,La 3
-https://rtiplay.ci/la3/direct
-#EXTINF:-1,NCI
-https://www.nci.ci/direct
-#EXTINF:-1,NCI
-https://lifeplay.ci/live
-#EXTINF:-1,RTI1
-https://rtiplay.ci/rti1/direct
-#EXTINF:-1,RTI2
-https://rtiplay.ci/rti2/direct
+
+# ===== 🇨🇮 CÔTE D'IVOIRE =====
+
+#EXTINF:-1 tvg-name="RTI 1" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 RTI 1
+https://www.rtiplay.ci/rti1/direct.m3u8
+#EXTINF:-1 tvg-name="RTI 2" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 RTI 2
+https://www.rtiplay.ci/rti2/direct
+#EXTINF:-1 tvg-name="NCI" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 NCI
+https://nci.ci/
+#EXTINF:-1 tvg-name="Life TV" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 Life TV
+https://lifetv.ci/
+#EXTINF:-1 tvg-name="7INFO" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 7INFO
+https://7info.ci/
+#EXTINF:-1 tvg-name="A+ Ivoire" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 A+ Ivoire
+https://www.canalplus.com/ci/chaines/a-plus-ivoire
