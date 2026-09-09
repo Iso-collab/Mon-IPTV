@@ -11,3 +11,18 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD",Africanews French (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1,La 3
+https://rtiplay.ci/la3/direct
+
+#EXTINF:-1,NCI
+https://www.nci.ci/direct
+
+#EXTINF:-1,NCI
+https://lifeplay.ci/live
+
+#EXTINF:-1,RTI1
+https://rtiplay.ci/rti1/direct
+
+#EXTINF:-1,RTI2
+https://rtiplay.ci/rti2/direct
