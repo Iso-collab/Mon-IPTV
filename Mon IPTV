@@ -16,7 +16,7 @@ https://www.rtiplay.ci/rti1/direct.m3u8
 #EXTINF:-1 tvg-name="RTI 2" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 RTI 2
 https://www.rtiplay.ci/rti2/direct
 #EXTINF:-1 tvg-name="NCI" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 NCI
-https://nci.ci/
+https://www.nci.ci/direct.m3u
 #EXTINF:-1 tvg-name="Life TV" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 Life TV
 https://lifetv.ci/
 #EXTINF:-1 tvg-name="7INFO" tvg-country="CI" group-title="Côte d'Ivoire",🇨🇮 7INFO
